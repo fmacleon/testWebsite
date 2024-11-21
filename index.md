@@ -2,7 +2,7 @@
 layout: panel
 ---
 
-# Here is your product and service page
+# Here is your newest product and newest service page
 You can explain why you deleiver the best customer service
 
 ![](photo1.jpg)
